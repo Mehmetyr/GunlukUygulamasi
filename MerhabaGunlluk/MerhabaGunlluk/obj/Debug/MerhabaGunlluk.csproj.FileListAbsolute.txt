@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\bin\Debug\MerhabaGunlluk.exe.config
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\bin\Debug\MerhabaGunlluk.exe
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\bin\Debug\MerhabaGunlluk.pdb
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\obj\Debug\MerhabaGunlluk.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\obj\Debug\MerhabaGunlluk.Form1.resources
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\obj\Debug\MerhabaGunlluk.Properties.Resources.resources
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\obj\Debug\MerhabaGunlluk.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\obj\Debug\MerhabaGunlluk.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\obj\Debug\MerhabaGunlluk.exe
+C:\Users\acer\source\repos\MerhabaGunlluk\MerhabaGunlluk\obj\Debug\MerhabaGunlluk.pdb
